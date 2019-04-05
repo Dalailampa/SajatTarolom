@@ -27,6 +27,7 @@ export class AppRoutingModule {
     AboutComponent,
     EventComponent,
     BookComponent,
+    MenuComponent,
     PageNotFoundComponent
   ];
 }
